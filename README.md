@@ -5,7 +5,7 @@
 
 ### About me:
 I'm a DevOPs Enthusiast with a Bachelor's in Computer Science.  
-Currently working as a Cloud Administrator (AWS), where I amd driven to solve challenges at the intersection of technology and creativity.
+Currently working as a Cloud Administrator (AWS), where I am driven to solve challenges at the intersection of technology and creativity, with a zest for Problem-Solving.
 
 
 ### My Developer Toolkit:  
