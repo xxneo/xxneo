@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hey%20there%20%F0%9F%91%8B%2C%20I%E2%80%99m%20Aditi%20Mahadware%20%E2%80%94%20nice%20to%20meet%20you!;Cloud%20Engineer%20and%20Devops%20Enthusiast;B.Tech%20in%20Computer%20Science;Cloud%20Engineer%20passionate%20about%20solving%20challenges;Ask%20me%20about%20AWS%2C%20Terraform%2C%20Python%20DBs;Currently%20leveling%20up%20in%20Linux%20%26%20Cand%20Kubernetes)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hey%20there%20%F0%9F%91%8B%2C%20I%E2%80%99m%20Aditi%20Mahadware%20%E2%80%94%20nice%20to%20meet%20you!;Cloud%20Engineer%20and%20Devops%20Enthusiast;B.Tech%20in%20Computer%20Science;Cloud%20Engineer%20passionate%20about%20solving%20challenges;Ask%20me%20about%20AWS%2C%20Terraform%2C%20Python;Currently%20leveling%20up%20in%20Linux%20%26%20Cand%20Kubernetes)
 
 <h3 align="center">Driven to Grow, Eager to Learn, Ready to Make an Impact !</h3>
 
